@@ -19,10 +19,14 @@ There are number of desktop and web-based GUI tools to be used with an SQLite da
 * [Sqlime](https://sqlime.org/)
 * [SQLite Viewer](https://sqliteviewer.app/)
 
+## Extensions
+
+* [GeoPackage](https://en.wikipedia.org/wiki/GeoPackage) -  data format for geographic information systems built as a set of conventions over a SQLite database.
+
 ## 📺 Videos
 
 * 2024.01.09 [SQLite Introduction - Beginners Guide to SQL and Databases](https://www.youtube.com/watch?v=8Xyn8R9eKB8) by Caleb Curry (21 min).
-
+* 2025.10.09 [Harvard CS50's Intro to Databases with SQL – Full University Course](https://www.youtube.com/watch?v=WXk7yDqsKxs) by David J. Malan and Carter Zenke (11 hours). (SQLite, Postgres. MySQL)
 
 ## Other lists
 
