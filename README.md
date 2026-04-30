@@ -19,9 +19,24 @@ There are number of desktop and web-based GUI tools to be used with an SQLite da
 * [Sqlime](https://sqlime.org/)
 * [SQLite Viewer](https://sqliteviewer.app/)
 
+## Flavors
+
+SQLite-compatible or SQLite-derived systems that extend it in different directions.
+
+* [Litestream](https://litestream.io/)
+* [LiteFS - Distributed SQLite](https://fly.io/docs/litefs/)
+
+
 ## Extensions
 
+Schemas and convention standards implemented on top of SQLite. Domain-specific file formats and conventions layered on top of vanilla SQLite.
+
 * [GeoPackage](https://en.wikipedia.org/wiki/GeoPackage) -  data format for geographic information systems built as a set of conventions over a SQLite database.
+* [Core Data](https://developer.apple.com/documentation/coredata/) - Persist or cache data on a single device, or sync data to multiple devices with CloudKit. (Apple Proprietary)
+* [Room persistence library](https://developer.android.com/jetpack/androidx/releases/room) (Android)
+* [Fossil](https://fossil-scm.org/) A Software Configuration Management System. It isn't very popular, but for example SQLite uses it.
+
+
 
 ## 📺 Videos
 
