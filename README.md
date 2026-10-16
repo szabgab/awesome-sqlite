@@ -18,6 +18,7 @@ There are number of desktop and web-based GUI tools to be used with an SQLite da
 * [DBeaver](https://dbeaver.io/)
 * [Sqlime](https://sqlime.org/)
 * [SQLite Viewer](https://sqliteviewer.app/)
+* [Glim](https://github.com/NeoPanic/Glim) - Open-source macOS file viewer with read-only SQLite table and schema inspection.
 
 ## Flavors
 
